@@ -1,0 +1,17 @@
+[
+  {
+    "email": "john.doe@sendgrid.com",
+    "timestamp": 1337966815,
+    "category": [
+      "newuser",
+      "transactional"
+    ],
+    "event": "open"
+  },
+  {
+    "email": "jane.doe@sendgrid.com",
+    "timestamp": 1337966815,
+    "category": "olduser",
+    "event": "open"
+  }
+]
